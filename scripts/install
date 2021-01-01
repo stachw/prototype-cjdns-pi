@@ -15,7 +15,7 @@ fi
 
 # Use provided repository or default to tomeshnet/prototype-cjdns-pi
 if [ -z "$GIT_PROTOTYPE_CJDNS_PI" ]; then
-    GIT_PROTOTYPE_CJDNS_PI="https://github.com/tomeshnet/prototype-cjdns-pi.git"
+    GIT_PROTOTYPE_CJDNS_PI="https://github.com/stachw/prototype-cjdns-pi.git"
 fi
 
 # Use provided tag or default to master
